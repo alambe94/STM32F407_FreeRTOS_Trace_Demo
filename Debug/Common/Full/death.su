@@ -1,0 +1,4 @@
+death.c:130:6:vCreateSuicidalTasks	32	static
+death.c:147:13:vSuicidalTask	48	static
+death.c:186:13:vCreateTasks	40	static
+death.c:216:15:xIsCreateTaskStillRunning	16	static

@@ -1,0 +1,6 @@
+flop.c:122:6:vStartMathTasks	24	static
+flop.c:135:13:vCompetingMathTask1	96	static
+flop.c:182:13:vCompetingMathTask2	96	static
+flop.c:230:13:vCompetingMathTask3	80	static
+flop.c:289:13:vCompetingMathTask4	80	static
+flop.c:349:15:xAreMathsTaskStillRunning	16	static

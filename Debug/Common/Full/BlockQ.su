@@ -1,0 +1,4 @@
+BlockQ.c:155:6:vStartBlockingQueueTasks	64	static
+BlockQ.c:237:13:vBlockingQueueProducer	40	static
+BlockQ.c:274:13:vBlockingQueueConsumer	40	static
+BlockQ.c:319:15:xAreBlockingQueuesStillRunning	16	static

@@ -1,0 +1,14 @@
+core_cm4.h:1587:22:NVIC_SetPendingIRQ	16	static
+main.c:280:5:main	8	static
+main.c:312:13:prvCheckTimerCallback	32	static
+main.c:409:13:prvButtonTestTask	24	static
+main.c:430:13:prvSetupHardware	8	static
+main.c:448:6:vApplicationTickHook	8	static
+main.c:476:13:prvSetupNestedFPUInterruptsTest	16	static
+main.c:502:6:TIM3_IRQHandler	4	static
+main.c:525:6:TIM2_IRQHandler	8	static
+main.c:547:13:prvOptionallyCreateComprehensveTestApplication	24	static
+main.c:614:6:EXTI0_IRQHandler	16	static
+main.c:637:6:vApplicationMallocFailedHook	16	static
+main.c:654:6:vApplicationIdleHook	4	static
+main.c:668:6:vApplicationStackOverflowHook	24	static

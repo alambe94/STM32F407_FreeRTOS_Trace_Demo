@@ -1,0 +1,5 @@
+countsem.c:149:6:vStartCountingSemaphoreTasks	16	static
+countsem.c:181:13:prvDecrementSemaphoreCount	32	static
+countsem.c:220:13:prvIncrementSemaphoreCount	24	static
+countsem.c:258:13:prvCountingSemaphoreTask	24	static
+countsem.c:296:12:xAreCountingSemaphoreTasksStillRunning	16	static

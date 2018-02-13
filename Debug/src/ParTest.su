@@ -1,0 +1,3 @@
+ParTest.c:91:6:vParTestInitialise	8	static
+ParTest.c:101:6:vParTestSetLED	16	static
+ParTest.c:117:6:vParTestToggleLED	16	static

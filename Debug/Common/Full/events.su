@@ -1,0 +1,5 @@
+events.c:174:6:vStartMultiEventTasks	16	static
+events.c:192:13:prvMultiEventTask	32	static
+events.c:220:13:prvEventControllerTask	24	static
+events.c:361:13:prvCheckTaskCounters	24	static
+events.c:393:15:xAreMultiEventTasksStillRunning	4	static

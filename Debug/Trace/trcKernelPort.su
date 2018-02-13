@@ -1,0 +1,11 @@
+trcKernelPort.c:133:6:vTraceEnable	40	static
+trcKernelPort.c:199:6:prvTraceOnBegin	4	static
+trcKernelPort.c:209:6:prvTraceOnEnd	4	static
+trcKernelPort.c:222:6:vTraceSetQueueName	16	static
+trcKernelPort.c:235:6:vTraceSetSemaphoreName	16	static
+trcKernelPort.c:248:6:vTraceSetMutexName	16	static
+trcKernelPort.c:259:7:prvTraceGetCurrentTaskHandle	8	static
+trcKernelPort.c:270:10:prvIsNewTCB	16	static
+trcKernelPort.c:286:15:prvTraceIsSchedulerSuspended	8	static
+trcKernelPort.c:303:13:prvCheckRecorderStatus	8	static
+trcKernelPort.c:358:8:TzCtrl	32	static

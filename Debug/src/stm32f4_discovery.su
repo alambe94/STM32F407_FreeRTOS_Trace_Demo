@@ -1,0 +1,6 @@
+stm32f4_discovery.c:116:6:STM_EVAL_LEDInit	24	static
+stm32f4_discovery.c:142:6:STM_EVAL_LEDOn	16	static
+stm32f4_discovery.c:157:6:STM_EVAL_LEDOff	16	static
+stm32f4_discovery.c:172:6:STM_EVAL_LEDToggle	16	static
+stm32f4_discovery.c:188:6:STM_EVAL_PBInit	40	static
+stm32f4_discovery.c:232:10:STM_EVAL_PBGetState	16	static

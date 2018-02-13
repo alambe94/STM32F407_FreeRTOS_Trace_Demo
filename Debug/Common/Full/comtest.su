@@ -1,0 +1,6 @@
+comtest.c:180:6:vStartComTestTasks	32	static
+comtest.c:192:13:vComTxTask	32	static
+comtest.c:229:13:vComRxTask	56	static
+comtest.c:326:13:vSemTestTask	24	static
+comtest.c:355:15:xAreComTestTasksStillRunning	16	static
+comtest.c:381:6:vComTestUnsuspendTask	8	static

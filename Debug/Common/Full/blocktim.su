@@ -1,0 +1,5 @@
+blocktim.c:140:6:vCreateBlockTimeTasks	16	static
+blocktim.c:162:13:vPrimaryBlockTimeTestTask	40	static
+blocktim.c:420:13:vSecondaryBlockTimeTestTask	32	static
+blocktim.c:510:13:prvBasicDelayTests	40	static
+blocktim.c:556:12:xAreBlockTimeTestTasksStillRunning	16	static

@@ -1,0 +1,5 @@
+recmutex.c:148:6:vStartRecursiveMutexTasks	16	static
+recmutex.c:171:13:prvRecursiveMutexControllingTask	24	static
+recmutex.c:254:13:prvRecursiveMutexBlockingTask	16	static
+recmutex.c:310:13:prvRecursiveMutexPollingTask	24	static
+recmutex.c:405:12:xAreRecursiveMutexTasksStillRunning	16	static

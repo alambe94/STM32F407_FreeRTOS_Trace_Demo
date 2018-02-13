@@ -1,0 +1,9 @@
+dynamic.c:221:6:vStartDynamicPriorityTasks	16	static
+dynamic.c:238:13:vLimitedIncrementTask	24	static
+dynamic.c:267:13:vContinuousIncrementTask	24	static
+dynamic.c:298:13:vCounterControlTask	32	static
+dynamic.c:392:13:vQueueSendWhenSuspendedTask	24	static
+dynamic.c:430:13:vQueueReceiveWhenSuspendedTask	32	static
+dynamic.c:485:13:prvChangePriorityWhenSuspendedTask	24	static
+dynamic.c:564:13:prvChangePriorityHelperTask	16	static
+dynamic.c:583:15:xAreDynamicPriorityTasksStillRunning	16	static
